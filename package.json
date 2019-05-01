@@ -10,6 +10,7 @@
     "patch": "npm version patch -m \"New patch version\"",
     "minor": "npm version minor -m \"New minor version\"",
     "major": "npm version major -m \"New major version\"",
+    "lint": "eslint --ext .js lib",
     "test": "jest",
     "test:watch": "jest --watch"
   },
@@ -31,6 +32,12 @@
     "nativefier": "^7.6.12"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
     "jest": "^24.7.1"
   }
 }
