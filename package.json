@@ -1,7 +1,7 @@
 {
   "name": "nativefier-tools",
   "version": "1.0.0",
-  "description": "Build tools to create Electron builds for native use.",
+  "description": "Wrapper build script in JS for projects using Nativefier.",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
