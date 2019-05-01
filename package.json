@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Eiskis/nativefier-tools/issues"
   },
-  "homepage": "https://github.com/Eiskis/nativefier-tools#readme"
+  "homepage": "https://github.com/Eiskis/nativefier-tools#readme",
+  "dependencies": {
+    "nativefier": "^7.6.12"
+  }
 }
