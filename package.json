@@ -1,0 +1,26 @@
+{
+  "name": "nativefier-tools",
+  "version": "1.0.0",
+  "description": "Build tools to create Electron builds for native use.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eiskis/nativefier-tools.git"
+  },
+  "keywords": [
+    "nativefier",
+    "electron"
+  ],
+  "author": "Jerry Jäppinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eiskis/nativefier-tools/issues"
+  },
+  "homepage": "https://github.com/Eiskis/nativefier-tools#readme"
+}
